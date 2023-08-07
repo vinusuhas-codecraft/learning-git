@@ -11,7 +11,7 @@ git init
 
 ##Git Status
 
-
+#added content after 1st commit and changing branch
 
 2
 ##Git log
