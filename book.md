@@ -7,7 +7,7 @@ This is my second git usage
 cd <to/your/folder>
 git init 
 ```
-#updated and added content
+#
 
 ##Git Status
 
