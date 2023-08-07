@@ -7,11 +7,16 @@ This is my second git usage
 cd <to/your/folder>
 git init 
 ```
-#updated and added content
+#
 
 ##Git Status
 
+<<<<<<< HEAD
 #added content after 1st commit and changing branch
+=======
+#added content in 2nd branch
+
+>>>>>>> 2branch
 
 2
 ##Git log
